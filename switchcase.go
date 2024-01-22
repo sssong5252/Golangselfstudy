@@ -11,6 +11,7 @@ func main() {
 
 	case 2:
 		text = "Number 2"
-
+	
+	default
 	}
 }
